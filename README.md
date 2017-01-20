@@ -1,2 +1,2 @@
 # wurto
-- [] Brick by brick
+- [ ] Brick by brick
